@@ -134,5 +134,3 @@ Have questions or suggestions? Feel free to:
 - Visit my portfolio at [yourwebsite.com](https://yourwebsite.com)
 
 ---
-
-**Note:** Remember to add a demo image to your repository and update the YouTube video link with your actual demo video once uploaded!"# robot-face-menu" 
